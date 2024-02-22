@@ -1,0 +1,13 @@
+{
+  "name": "metadata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@solana-developers/helpers": "^1.4.2",
+    "@solana/spl-token": "^0.3.11",
+    "@solana/spl-token-metadata": "^0.1.2",
+    "@solana/web3.js": "^1.89.1",
+    "typescript": "^5.3.3"
+  }
+}
