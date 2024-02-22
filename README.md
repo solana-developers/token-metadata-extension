@@ -1,6 +1,6 @@
 # Metadata token extension
 
-This demos how to create
+This demos how to create a Solana token using the Token Extension program and the Token Metadata extensions.
 
 ## Learn more about Token Extensions
 
